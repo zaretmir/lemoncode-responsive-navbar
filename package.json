@@ -15,5 +15,8 @@
     "queries"
   ],
   "author": "@zaretmir",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.27.0"
+  }
 }
