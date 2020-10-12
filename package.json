@@ -1,0 +1,19 @@
+{
+  "name": "responsive-navbar",
+  "version": "1.0.0",
+  "description": "Master in Front-End Development by Lemoncode - Challenge 3: Create a responsive navbar using flexbox and media queries",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layout",
+    "css",
+    "responsive",
+    "media",
+    "queries"
+  ],
+  "author": "@zaretmir",
+  "license": "ISC"
+}
